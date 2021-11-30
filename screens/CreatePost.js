@@ -10,7 +10,7 @@ export default class CreatePost extends Component {
                     justifyContent: "center",
                     alignItems: "center"
                 }}>
-                <Text>Create Post</Text>
+                <Text>Crear publicación</Text>
             </View>
         )
     }
