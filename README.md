@@ -1,2 +1,2 @@
-# spectagram-stage-1
-project solution for c81
+# spectagram-etapa-1
+solución del proyecto c81
